@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-14T17:09:40 IST" name="Default suite" finished-at="2022-02-14T17:09:59 IST" duration-ms="18750">
+    <groups>
+    </groups>
+    <test started-at="2022-02-14T17:09:40 IST" name="Default test" finished-at="2022-02-14T17:09:59 IST" duration-ms="18750">
+      <class name="com.redbus.RedBus">
+        <test-method signature="seatBooking()[pri:0, instance:com.redbus.RedBus@1e1a0406]" started-at="2022-02-14T17:09:40 IST" name="seatBooking" finished-at="2022-02-14T17:09:59 IST" duration-ms="18717" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seatBooking -->
+      </class> <!-- com.redbus.RedBus -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
